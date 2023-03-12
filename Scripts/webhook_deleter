@@ -1,0 +1,11 @@
+echo "[+] Sending a cute message to the webhook"
+echo "[+] URL : $1"
+
+# comment this line to avoid sending a message
+curl -X POST "$1" -d "content=@everyone this webhook has been deleted by SomeBoringNerd#5428. https://github.com/WaifuWare on top"
+
+echo "[+] Message sent (probably)"
+
+
+curl -X DELETE "$1"
+echo "[+] Webhook deleted"
