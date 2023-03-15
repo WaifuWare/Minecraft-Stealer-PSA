@@ -17,6 +17,10 @@ https://github.com/Col-E/Recaf
 
 this is a Java decompiler and it is good.
 
+Usually, a grabber will have really weird classes (web request libs, cookies, etc...), and will try to access discord path, chrome / firefox and so on.
+
+Another dead give away is the mod information, if it's some default stuff, there's a high probability it's not good
+
 === 3. How to use recaf
 
 When you open Recaf, it will be an empty window
@@ -93,6 +97,16 @@ Pray that https://github.com/java-deobfuscator/deobfuscator is able to deobfusca
 you can report malicious Heroku apps on their contact page :
 
 https://www.heroku.com/policy/security#vuln_report
+
+==== 6. The mod contain a discord token
+
+That's your lucky day ! there is a lot of things that can be done with a bot token.
+
+You can log in using LiveBot : https://github.com/SebOuellette/LiveBot/
+
+If you can't see any discords / channels, go to js, open load.js and set the variable bot.hideUnallowed to false.
+
+And while we dont approve the usage of it for malicious purposes, we provide a discord nuker in the scripts folder. The bot contain infos to use it in its folder.
 
 === 6. What is WaifuWare
 
