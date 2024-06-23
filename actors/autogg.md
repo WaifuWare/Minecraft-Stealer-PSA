@@ -10,6 +10,6 @@ Just like any other grabber, open it in recaf (see the [ben](BenGrabber) page fo
 
 the malware is stored in the github.quantizr.autogg.guis.gui file in a really not subtle way
 
-![a](Images/autogg_url.png)
+![a](../Images/autogg_url.png)
 
-Use our [Skiddus Deletus](Scripts/webhook_deleter) to quickly get rid of this grabber
+Use our [Skiddus Deletus](../Scripts/webhook_deleter) to quickly get rid of this grabber
