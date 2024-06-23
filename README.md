@@ -23,15 +23,13 @@ Another dead give away is the mod information, if it's some default stuff, there
 
 Each ratter usually has their own "custom" (Sometime skidded) grabber, or at least brand them all the same. Note that several ratters can use the same skidded rat, and some devs actually provide rat generators.
 
-[autogg](actors/autogg) : A cheap grabber that grab your session id, and your discord token
+[autogg](actors/autogg.md) : A cheap grabber that grab your session id, and your discord token
 
 [BenGrabber](actors/ben.md) : A cheap grabber that, while easy to disable, it does manage to grab quite a lot of data.
 
-[IWannaBeHappy](actors/iwannabehappy) : A slightly better grabber that only grab your minecraft account to sell your skyblock coins / items for IRL money
+[IWannaBeHappy](actors/iwannabehappy.md) : A slightly better grabber that only grab your minecraft account to sell your skyblock coins / items for IRL money
 
-[QOLPlug](actors/qolplug) : one of the bigger ratters I'm aware of.
-
-[Schubi](actors/schubi) : An advanced grabber that grab Cookies, Passwords, and Discord account from every browser / discord client under the sun (Except firefox for some reasons ?), and Minecraft accounts from Essential, Lunar and the default Launcher. It also grab your browser history. 
+[Schubi](actors/schubi.md) : An advanced grabber that grab Cookies, Passwords, and Discord account from every browser / discord client under the sun (Except firefox for some reasons ?), and Minecraft accounts from Essential, Lunar and the default Launcher. It also grab your browser history. 
 
 ## 4. Common issues
 
